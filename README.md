@@ -1,4 +1,4 @@
 OriginCMS-CorePython
 ====================
 
-OriginCMS CherryPy Version
+OriginCMS, Flasky Python Flavour
